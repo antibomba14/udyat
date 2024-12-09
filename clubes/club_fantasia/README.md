@@ -5,3 +5,6 @@ Bienvenidos al club de lectura dedicado a los libros de fantasía.
 - *El Hobbit* (J.R.R. Tolkien, 1937, Fantasía)
   - Estado: Leído
   - Comentarios: Gran obra de la fantasía clásica.
+- *El señor de los Anillos* (J.R.R. Tolkien, 1954, Fantasía)
+  - Estado: Leído
+  - Comentarios: Obra maestra de la fantasía, altamente recomendable.
