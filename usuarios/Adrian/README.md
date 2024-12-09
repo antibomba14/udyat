@@ -3,4 +3,4 @@
 - Ninguno por ahora.
 
 ## Libros Pendientes 📖
-- Ninguno por ahora.
+-German:El señor de los anillos, j.r.r.tolkien
