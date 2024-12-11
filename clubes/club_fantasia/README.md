@@ -8,3 +8,6 @@ Bienvenidos al club de lectura dedicado a los libros de fantasía.
 - *El señor de los Anillos* (J.R.R. Tolkien, 1954, Fantasía)
   - Estado: Leído
   - Comentarios: Obra maestra de la fantasía, altamente recomendable.
+- *Harry Potter y el cáliz de fuego* (J.K.R, 2000, Fantasía)
+- Estado Leído
+- Comentarios: Excelente libro, muy entretenido.
